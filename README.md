@@ -46,11 +46,11 @@ https://esmeewalravens.github.io/blokweb/
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Homepagina  
-  <img src="readme-images/homepage-mm.jpg" width="375px" alt="de homepage van de m&m's website">
+  <img src="readme-images/homepage-mm.png" width="375px" alt="de homepage van de m&m's website">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Productdetailpagina  
-  <img src="readme-images/productpage-mm.jpg" width="375px" alt="de productpagina van de m&m's website">
+  <img src="readme-images/productpage-mm.png" width="375px" alt="de productpagina van de m&m's website">
  
 </details>
 
