@@ -16,13 +16,13 @@ https://esmeewalravens.github.io/blokweb/
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Sanne 't Hooft (vervangen door jouw naam)
+  Esmée Walravens
 
   #### Je startniveau:
-  hier je startniveau (kies uit zwart, rood óf blauw)
+  rood
 
   #### Je focus:
-  hier je focus (kies uit responsive óf surface plane)
+  surface plane
  
 </details>
 
@@ -36,15 +36,21 @@ https://esmeewalravens.github.io/blokweb/
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+  https://www.mms.com/nl-nl?gad_source=1&optimizelyCacheKey=%2BrWQXr1FDknoQTRb3BjUPJTz8g%2BsesUkLHOJ%2BcI%2FLZk%3D 
+  **Surface plane opties:**
+  - Animaties (hover, brand-feel)
+  - BlingBling (mag hier echt, want branding is playful)
+  - SVG icon animaties
+  - Lettergrootte instelbaar
+  - Prefers-reduced-motion
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  Homepagina  
+  <img src="readme-images/homepage-mm.jpg" width="375px" alt="de homepage van de m&m's website">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  Productdetailpagina  
+  <img src="readme-images/productpage-mm.jpg" width="375px" alt="de productpagina van de m&m's website">
  
 </details>
 
