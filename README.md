@@ -19,7 +19,7 @@ https://esmeewalravens.github.io/blokweb/
   Esmée Walravens
 
   #### Je startniveau:
-  rood
+  blauw
 
   #### Je focus:
   surface plane
